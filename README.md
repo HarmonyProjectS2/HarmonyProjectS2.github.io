@@ -1,4 +1,4 @@
-### A propos
+### ok
 Sur ce site vous retrouverez toutes les informations concernant l'actualité du jeu 
 et bien information passionnantes.
 

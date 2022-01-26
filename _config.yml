@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
-title: Harmony's website
-description: Coucou c'est ici que l'on va actualiser les actus du jeu
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins

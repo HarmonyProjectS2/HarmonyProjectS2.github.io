@@ -1287,6 +1287,16 @@ ul.simplefilter {
 	background:#212121;
 	padding:1em 0;
 }
+.clique
+{
+	font-size:medium;
+	text-align: center;
+
+}
+.ici
+{
+	color:#4f5856;
+}
 .copyright p{
 	color:#FFFFFF;
 	font-size:.9em;

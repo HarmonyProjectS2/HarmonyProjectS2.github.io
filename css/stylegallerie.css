@@ -75,7 +75,16 @@ figure {
   color: #fcfcfc;
   background: #2da9d7;
 }
-
+.level1
+{
+  width: 330px;
+}
+.level1bis
+{
+  width: 400px;
+ 
+  padding-left: 10px;
+}
 #fh5co-header {
   padding-top: 40px;
   margin-bottom: 30px;

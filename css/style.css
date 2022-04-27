@@ -300,7 +300,7 @@ body{
 /*-- //slider --*/
 /*-- w3layouts-banner-info --*/
 .w3layouts-banner-info {
-    padding: 8em 0;
+    padding: 10em 0;
 }
 .banner_text {
     text-align: center;
@@ -342,7 +342,7 @@ body{
 /*-- //w3layouts-banner-info --*/
 /*-- about--*/
 .about,.markets,.portfolio,.testimonial-dot,.team,.blog,.mail{
-    padding: 4em 0;
+    padding: 2em 0;
 }
 .welcome{
     border-bottom: 1px dashed #ccc;
@@ -364,19 +364,20 @@ body{
     width: 65%;
 } 
 .about-w3lsrow {
-    margin: 4em 0 0 0;
+    margin: 9em 0 0 0;
 }
 .w3about-img {
-    background: url(../images/2.jpg)no-repeat 0px 0px;
+    background: url(../images/logo.png);
     background-size: cover;
-    min-height: 30em;
+    min-height: 40em;
     padding: 0;
+
 	position:relative;
 }
 .w3about-text {
     background: #f2f2f2;
     position: absolute;
-    width: 56%;
+    width: 70%;
     padding: 3em;
     right: -30%;
     top: 27%;
@@ -1297,6 +1298,7 @@ ul.simplefilter {
 {
 	color:#4f5856;
 }
+
 .copyright p{
 	color:#FFFFFF;
 	font-size:.9em;

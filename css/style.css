@@ -685,6 +685,17 @@ ul.simplefilter {
 }
 /*-- //model --*/
 /*-- testimonial --*/
+
+
+.btn_jeu{
+	font-size:medium;
+	text-align: left;
+	position: relative;
+	left : 570px;
+	top : 1100px;
+	color:#000000;
+	font-size: 20px;
+	}
 .testimonial{
 	background:url(../images/level1.png) no-repeat 0px 0px;
 	background-size:cover;
